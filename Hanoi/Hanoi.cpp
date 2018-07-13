@@ -18,7 +18,7 @@ int main()
 {
 	int n;
 	cin >> n;
-	hannoi(n, 'A', 'B', 'C');
+	hannoi(n, 'B', 'A', 'C');
     return 0;
 }
 
